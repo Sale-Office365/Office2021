@@ -36,7 +36,7 @@ Bấm phím 2, sau đó làm theo đề xuất, kích hoạt xong tạo gia hạ
 
 ## 3. MAS 1.5 AIO CRC32 21D20776 ##
 
-- Download file MAS 1.5 AIO CRC32 21D20776.txt [tại đây](https://1drv.ms/t/s!AkwSBX-xWiVhgQ2uicZ7U2jSug8O?e=pd3od9), rồi mở lên bấm Save As với tên kichhoat.cmd run fle này dưới quyền Run Administrator
+- Download file MAS 1.5 AIO CRC32 21D20776.txt [tại đây](https://1drv.ms/t/s!AkwSBX-xWiVhgQ2uicZ7U2jSug8O?e=pd3od9) hoặc [MAS UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=40ciuC), rồi mở lên bấm Save As với tên kichhoat.cmd run fle này dưới quyền Run Administrator
 - Sau khi kích hoạt xong, dùng AIO TOOLS V3.1.3 hoặc Online KMS Activation Script v6.0 tạo gia hạn kích hoạt vĩnh viễn.
 
 ## 4. FILE cmd KHÁC ##
