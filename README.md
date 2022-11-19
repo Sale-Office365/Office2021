@@ -26,6 +26,7 @@ Chọn phím thích hợp rồi chuyển
  
  ## 2. Online KMS Activation Script v6.0 ##
 
+- [KMS AIO UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=xm5Awg)
 - Download file Online KMS Activation Script v6.0.txt [tại đây](https://1drv.ms/t/s!AkwSBX-xWiVhgRK591WjSVADwexy?e=1SdXR5), rồi mở lên bấm Save As với tên kichhoat.cmd run fle này dưới quyền Run Administrator
 
 ![image](https://user-images.githubusercontent.com/103977676/200760926-e43b81b3-67e9-4949-bbe8-bc7b045a0dc6.png)
