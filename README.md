@@ -89,3 +89,63 @@ Bấm phím 3, điền 5 kí tự cuối vào bấm Enter
 Kiểm tra lại ta thấy:
 
 ![image](https://user-images.githubusercontent.com/103977676/200765447-5e3c87f0-d179-4ebf-ad0b-f3f9a5fcae4c.png)
+
+# GHI CHÚ: #
+
+Bấm vô biểu tượng Windows trên màn hình desktop chọn Windows System rồi chọn Command Prompt chọn More chọn Run As Administrator
+
+![image](https://user-images.githubusercontent.com/103977676/205012427-c8458db5-51cf-4f10-9acc-637140df63b6.png)
+
+Sau đó tùy Win mà dán câu lệnh:
+
+Windows 32 Bit
+
+```php
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+```
+
+Windows 64 Bit
+
+```php
+cd /d %ProgramFiles%\Microsoft Office\Office16
+```
+
+Sau đó Install giấy phép Office 2021 Prolus Volume License:
+
+```php
+for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
+```
+
+Kích hoạt Office 2021 Pro Plus bằng key KMS lần lượt dán câu lệnh:
+
+Câu 1:
+
+```php
+cscript ospp.vbs /setprt:1688
+```
+
+Câu 2:
+
+```php
+cscript ospp.vbs /unpkey:6F7TH >nul
+```
+
+Câu 3:
+
+```php
+cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
+```
+
+Câu 4:
+
+```php
+cscript ospp.vbs /sethst:vpsus.vn
+```
+
+Câu 5:
+
+```php
+cscript ospp.vbs /act
+```
+
+## Vậy khi thành công thì Office đã kích hoạt 180 ngày! ##
